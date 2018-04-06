@@ -2,6 +2,7 @@ package org.zerock.domain;
 
 import java.util.Date;
 
+
 public class MemberVO {
 	private String userid;
 	private String userpw;
